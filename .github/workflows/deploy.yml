@@ -27,4 +27,4 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "YOUR_DENO_DEPLOY_PROJECT_NAME"
-          entrypoint: "./docs/server.ts"
+          entrypoint: "./server.ts"
